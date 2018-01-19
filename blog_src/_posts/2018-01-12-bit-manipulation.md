@@ -18,7 +18,7 @@ comments: true
 ---
 All data in computer programs is internally stored as bits, i.e., as numbers 0 and 1. It turns out that there are many uses for bit manipulation in competitive programming.
 
-In programming, an n bit integer is internally stored as a binary number that consists of n bits. For example, the C++ type int is a 32-bit type, which means that every int number consists of 32 bits. For exmaple, the bit representation of the int number 42 is ```00000000000000000000000000101010```.
+In programming, an n bit integer is internally stored as a binary number that consists of n bits. For example, the C++ type int is a 32-bit type, which means that every int number consists of 32 bits. For example, the bit representation of the int number 42 is ```00000000000000000000000000101010```.
 
 There are several bit operations supported by a typical ALU, some of them being AND, OR, NOT, XOR, and bit shifts
 
